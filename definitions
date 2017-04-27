@@ -1,0 +1,18 @@
+#comment
+int integer
+#you can decline to define variables when creating
+str strings = "test"
+#no ;s
+bool truth = true
+bool truth = false
+/* Multi-line comments
+are like this
+! not
+&& and
+|| xor
+|& or &|
+*/
+if true:
+  print "Significant whitespace is a thing.", "The second is the end text."
+else if true:
+  print
